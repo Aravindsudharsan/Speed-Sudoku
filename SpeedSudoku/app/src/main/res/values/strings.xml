@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Speed Sudoku</string>
+    <string name="title">TODO</string>
+    <string name="start_a_new_game">NEW GAME</string>
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="choose_mode">CHOOSE MODE</string>
+    <string name="single_player">SINGLE PLAYER</string>
+    <string name="multi_player">MULTI PLAYER</string>
+    <string name="choose_difficulty">DIFFICULTY</string>
+    <!--string name="amateur">Amateur</string-->
+    <!--string name="professional">Professional</string-->
+    <!--string name="expertise">Expertise</string-->
+    <!--string name="search_for_opponents">Search for opponents</string-->
+    <string name="instructions_1">1. In Sudoku it is intended to place all the remaining pieces on the board. The numbers range from 1 to 9 (in 9x9 Sudoku).</string>
+    <string name="instructions_2">2. The board is separated into several squares, and inside each of them it is only allowed to place one of each number.</string>
+    <string name="instructions_3">3. It is only allowed to place one of each number at each row, both horizontal and vertical.</string>
+    <string name="go_back_button">back</string>
+    <string name="button_name">CHECK</string>
+</resources>

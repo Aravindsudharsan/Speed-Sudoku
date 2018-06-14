@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "917333882646",
+    "firebase_url": "https://ssss-cbcce.firebaseio.com",
+    "project_id": "ssss-cbcce",
+    "storage_bucket": "ssss-cbcce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917333882646:android:f3085c1699626e2f",
+        "android_client_info": {
+          "package_name": "com.example.aravindsudharsan.speedsudoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917333882646-31hgq4ri0o38jtfmnpgp30cjqt1csh8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aravindsudharsan.speedsudoku",
+            "certificate_hash": "0b36d287eb211516a1c5a24f4956d5e0cf604bcb"
+          }
+        },
+        {
+          "client_id": "917333882646-iledj278ic646qfpglb9293kfgldfjss.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "917333882646-iledj278ic646qfpglb9293kfgldfjss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcJR2uDuQnbwNjHectLojTIu7MuTETOe8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917333882646-iledj278ic646qfpglb9293kfgldfjss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
